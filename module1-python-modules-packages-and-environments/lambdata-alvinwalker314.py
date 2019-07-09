@@ -1,3 +1,5 @@
+import pandas as pd
+
 def split_date(df, date_column):
 	years= [data.split('/')[0] for data in df[date_column]]
 	months= [data.split('/')[1] for data in df[date_column]]
