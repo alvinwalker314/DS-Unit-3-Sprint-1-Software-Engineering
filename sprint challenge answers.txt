@@ -1,0 +1,10 @@
+Sprint Questions: 
+What, in your opinion, is an important part of code reviews? That is, what is something you pay attention to when you review code, 
+and that you appreciate when others do the same for your code?
+I feel giving feedback is an important part of code reviews. Usually there is always a spot in the code that can be improved and it's up to the reviewer to find it and 
+help the one being reviewed make it better. I like when people offer suggestions to my code. For example, if i have line of code repeated, I want them to remind me i can place it
+in a function. 
+
+We have an awful lot of computers here, and it gets pretty confusing with slightly different things running on all of them. How could containers help us improve this situation?
+Containers allow anyone with that container to run your packages on your computer. It has all the requirement/dependancies built in. It solves the issue of not having certain 
+requirements like a package, operating system, etc. 
